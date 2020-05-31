@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MetsErp.Interface\Scrumler.Interface.csproj" />
+    <ProjectReference Include="..\Scrumler.Interface\Scrumler.Interface.csproj" />
   </ItemGroup>
 
 </Project>

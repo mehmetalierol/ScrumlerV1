@@ -10,8 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MetsErp.Entity\Scrumler.Entity.csproj" />
-    <ProjectReference Include="..\MetsErp.Interface\Scrumler.Interface.csproj" />
+    <ProjectReference Include="..\Scrumler.Entity\Scrumler.Entity.csproj" />
+    <ProjectReference Include="..\Scrumler.Interface\Scrumler.Interface.csproj" />
   </ItemGroup>
 
 </Project>

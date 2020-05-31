@@ -9,6 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MetsErp.Dal\Scrumler.Dal.csproj" />
+    <ProjectReference Include="..\Scrumler.Dal\Scrumler.Dal.csproj" />
   </ItemGroup>
 </Project>
